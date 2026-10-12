@@ -38,6 +38,6 @@ int main()
 
     return 0;
 }
-output:
-factorial using iterative method =5040
-factorial using rcurvese method =5040
+
+//output: factorial using iterative method =5040
+          factorial using rcurvese method =5040
